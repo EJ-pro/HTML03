@@ -1,5 +1,5 @@
 # HTML03
-## 이재희
----
+## JAEHEE LEE
 * DTD
-* HTML 기본 태그
+* HTML basics tag
+    * 10 Tags Practice
